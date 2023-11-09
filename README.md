@@ -29,7 +29,7 @@ instagram: <a href="https://www.instagram.com/little_devil_happy ">little_devil_
 Login: little_devil                             Name: little_devil
 Directory: /home/little_devil                   Shell: /usr/bin/fish
 Project:
-  - Working on my web, <a href="https://littledevilbig.github.io/">check it out</a>!
+  - Working on my web, <a href="https://littledevilbig.github.io/about/">check it out</a>!
   - Working on Natural Language Embedded in Deep Reinforcement Learning.
   - Neural MMO Challenge in the PVP Track,  <a href="https://github.com/LittleDevilBig/nmmo"> Silver tier award！
 Plan:
